@@ -79,11 +79,9 @@ cd weather-app
 
 ---
 
-## Author
+## Available
 
-**Your Name**
-
-* GitHub: [https://github.com/your-username](https://github.com/your-CharanMC-07)
-* LinkedIn: [https://linkedin.com/in/your-linkedin](http://www.linkedin.com/in/charan-m-c56))
+* GitHub: [https://github.com/your-CharanMC-07]
+* LinkedIn: [http://www.linkedin.com/in/charan-m-c56]
 
 ```
