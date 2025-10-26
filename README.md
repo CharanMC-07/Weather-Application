@@ -43,7 +43,7 @@ A simple **Weather App** built with **HTML, CSS, and JavaScript** that allows yo
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/weather-app.git
+https://github.com/CharanMC-07/Weather-Application
 ````
 
 2. **Navigate to the project folder**
